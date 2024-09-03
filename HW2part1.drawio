@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.8">
+  <diagram name="Page-1" id="EU_9g6YKppFDLxQ-yd42">
+    <mxGraphModel dx="1042" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-1" target="SAXbf2U_s-x0KDOaSMLF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-2" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-3" target="SAXbf2U_s-x0KDOaSMLF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-3" value="x: int = int(input)&lt;div&gt;type a first number&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-4" target="SAXbf2U_s-x0KDOaSMLF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-4" value="y: int = int(input)&lt;div&gt;type a second number&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-5" target="SAXbf2U_s-x0KDOaSMLF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-5" value="z: int = int(input)&lt;div&gt;type a third number&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-6" target="SAXbf2U_s-x0KDOaSMLF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-6" value="print&lt;div&gt;x+y+z&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SAXbf2U_s-x0KDOaSMLF-7" target="SAXbf2U_s-x0KDOaSMLF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAXbf2U_s-x0KDOaSMLF-7" value="print&lt;div&gt;x*y*z&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="660" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
